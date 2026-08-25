@@ -1,4 +1,4 @@
 # Equipo Los Tres Mosqueteros
-Lema: El que no arriesga, no gana
+Lema: Juntos llegamos más lejos
 Contacto: equipo@ejemplo.con
 Version: 0.1
